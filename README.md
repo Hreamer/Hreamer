@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hudson Reamer</h1>
 <h3 align="center">An excited Software Engineer from Indiana</h3>
 
-- 🔭 I’m currently working on **a Math Expression Evaluator in Python**
+- 🔭 I’m currently working on **a 32 bit Operating System**
 
 - 🌱 I’m currently learning **about Cloud Computing**
 
