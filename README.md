@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Math Expression Evaluator in Python**
 
-- 🌱 I’m currently learning **about Operating Systems**
+- 🌱 I’m currently learning **about Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hreamer](https://github.com/Hreamer)
 
