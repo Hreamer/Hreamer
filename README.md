@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a 32 bit Operating System** and **RemEx**
 
-- 🌱 I’m currently learning **about Cloud Computing**
+- 🌱 I’m currently learning **about Compilers and Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hreamer](https://github.com/Hreamer)
 
