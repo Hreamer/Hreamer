@@ -23,5 +23,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Go: A Refreshing Experience](https://medium.com/@reamer.hudson/the-lost-art-of-compromise-1cfb0736fb12?source=rss-579c16598087------2)
 <!-- BLOG-POST-LIST:END -->
 
